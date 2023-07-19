@@ -8,3 +8,9 @@
 3. Sprawdź ilość trafień
 4. Pokazać ile użytkownik wygrał
 5. Stworzyć walidacje real time
+
+## Słownik
+
+- GUI - graphical user interface
+- CLI - command line interface, np. git
+- API - application programming interface, możemy sterować za pomocą programu
