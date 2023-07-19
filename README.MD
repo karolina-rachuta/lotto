@@ -1,9 +1,11 @@
 # Lotto
 ## Instrukcja
+
 1. Użytkownik podaje 6 liczb
  - liczby całkowite
  - z zakresu 1-49
  - nie mogą się powtarzać
+   (Walidujemy funcje od użytkownika)
 2. Wylosowć 6 liczb z zakresu 1-49 bez powtórzeń
 3. Sprawdź ilość trafień
 4. Pokazać ile użytkownik wygrał
